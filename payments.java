@@ -55,7 +55,7 @@ public class payments {
         return type_of_payment;
     }
     
-    public void setType(){
+    public void setType(String type_of_payment){
         this.type_of_payment = type_of_payment;
     }
     
